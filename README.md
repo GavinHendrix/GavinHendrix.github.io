@@ -1,3 +1,3 @@
 # GavinHendrix.github.io
 
-GitHub pages only allows static websites ;'(
+GitHub pages only allows static websites :'(
